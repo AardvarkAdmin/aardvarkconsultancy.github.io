@@ -21,7 +21,7 @@ $(function() {
             }
             
             $.ajax({
-                url: "https://formspree.io/www@fieldofclouds.com", 
+                url: "https://formspree.io/www@aardvarkconsultancy.com", 
                 method: "POST",
                 data: {
                     name: name,
